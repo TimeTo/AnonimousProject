@@ -1,0 +1,6 @@
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\03.FileReadAllText\bin\Debug\03.FileReadAllText.exe.config
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\03.FileReadAllText\bin\Debug\03.FileReadAllText.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\03.FileReadAllText\bin\Debug\03.FileReadAllText.pdb
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\03.FileReadAllText\obj\Debug\03.FileReadAllText.csprojResolveAssemblyReference.cache
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\03.FileReadAllText\obj\Debug\03.FileReadAllText.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\03.FileReadAllText\obj\Debug\03.FileReadAllText.pdb

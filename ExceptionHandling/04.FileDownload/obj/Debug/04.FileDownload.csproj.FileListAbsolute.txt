@@ -1,0 +1,6 @@
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\04.FileDownload\bin\Debug\04.FileDownload.exe.config
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\04.FileDownload\bin\Debug\04.FileDownload.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\04.FileDownload\bin\Debug\04.FileDownload.pdb
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\04.FileDownload\obj\Debug\04.FileDownload.csprojResolveAssemblyReference.cache
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\04.FileDownload\obj\Debug\04.FileDownload.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\04.FileDownload\obj\Debug\04.FileDownload.pdb

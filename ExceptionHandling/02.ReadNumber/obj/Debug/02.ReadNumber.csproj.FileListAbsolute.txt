@@ -1,0 +1,6 @@
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\02.ReadNumber\obj\Debug\02.ReadNumber.csprojResolveAssemblyReference.cache
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\02.ReadNumber\bin\Debug\02.ReadNumber.exe.config
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\02.ReadNumber\bin\Debug\02.ReadNumber.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\02.ReadNumber\bin\Debug\02.ReadNumber.pdb
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\02.ReadNumber\obj\Debug\02.ReadNumber.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\02.ReadNumber\obj\Debug\02.ReadNumber.pdb

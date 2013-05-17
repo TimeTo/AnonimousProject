@@ -1,0 +1,6 @@
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\01.TryCatchFinally\bin\Debug\01.TryCatchFinally.exe.config
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\01.TryCatchFinally\obj\Debug\01.TryCatchFinally.csprojResolveAssemblyReference.cache
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\01.TryCatchFinally\bin\Debug\01.TryCatchFinally.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\01.TryCatchFinally\bin\Debug\01.TryCatchFinally.pdb
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\01.TryCatchFinally\obj\Debug\01.TryCatchFinally.exe
+E:\Telerik\C#\12 - Exception Handling\Homework\ExceptionHandling\01.TryCatchFinally\obj\Debug\01.TryCatchFinally.pdb
